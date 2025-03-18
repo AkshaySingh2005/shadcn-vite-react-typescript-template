@@ -42,21 +42,21 @@ Follow these steps to get started with the react-vite-ui template:
 3. Install the dependencies:
 
    ```bash
-   pnpm install
+   npm install
    ```
 
 4. Start the development server:
 
    ```bash
-   pnpm dev
+   npm dev
    ```
 
 ## 📜 Available Scripts
 
-- pnpm dev - Starts the development server.
-- pnpm build - Builds the production-ready code.
-- pnpm lint - Runs ESLint to analyze and lint the code.
-- pnpm preview - Starts the Vite development server in preview mode.
+- npm dev - Starts the development server.
+- npm build - Builds the production-ready code.
+- npm lint - Runs ESLint to analyze and lint the code.
+- npm preview - Starts the Vite development server in preview mode.
 
 ## 📂 Project Structure
 
